@@ -1,0 +1,3 @@
+flashHeadrStore 判断行情交易 和 唐卡TKC交易 路由切换
+headerStatusStore  判断点击导航菜单状态
+logintagstore   判断是否登录  保存用户信息

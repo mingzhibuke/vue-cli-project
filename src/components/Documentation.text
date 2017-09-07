@@ -1,0 +1,17 @@
+页面文件 解释
+
+bitcointransaction  导航页 比特币交易相关页面
+
+marketTransaction  导航页 唐卡交易相关页面
+
+rechargecash      导航页  人民、唐卡相关页面
+
+securitycenter  导航页    安全中心相关页面
+
+usercenter     导航页    用户中心相关页面
+
+hello.vue   为测试组件页面
+
+Home.vue    为首页面
+
+lttcointransaction 导航页  莱特币交易相关页面
