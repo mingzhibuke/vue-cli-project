@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+</head>
+
+<body>
+
+</body>
+<script>
+  const str = decodeURIComponent(location.search.replace(/^\??val=(?=(.*))/, '$1'))
+  console.log(str)
+
+  document.body.innerHTML = str //添加到body里面
+  document.forms['alipaysubmit'].submit();
+
+</script>
+
+</html>
